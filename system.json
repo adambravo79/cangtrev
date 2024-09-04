@@ -12,6 +12,12 @@
   "packs": [],
   "languages": [
     {
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json",
+			"flags": {}
+		},
+    {
       "lang": "pt-BR",
       "name": "Português (Brasil)",
       "path": "lang/ptbr.json"
